@@ -1,15 +1,7 @@
-
-
-import PokemonCard from './components/PokemonCard';
+import PokemonCard from "./components/PokemonCard";
 
 function App() {
-  
-  return (
-<div>
-  <PokemonCard/>
-
- </div>
- );
+  return <PokemonCard />;
 }
 
 export default App;
